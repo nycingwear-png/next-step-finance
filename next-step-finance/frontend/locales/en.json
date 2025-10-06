@@ -1,0 +1,16 @@
+{
+  "login": { "phone": "Phone Number", "code": "SMS Code", "submit": "Login" },
+  "register": { "phone": "Phone", "firstName": "First Name", "success": "Registered!" },
+  "home": { "title": "Home" },
+  "balance": "Wallet Balance",
+  "upgrade": "Upgrade to {{next}} ({{req}})",
+  "name": "Name",
+  "submit": "Submit",
+  "remind": "Remind",
+  "error": "Error",
+  "success": "Success",
+  "settings": { "title": "Settings" },
+  "currentMonth": "Current Month",
+  "apply": "Apply",
+  "applyAmount": "Apply for Amount"
+}

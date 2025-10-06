@@ -1,0 +1,7 @@
+# Tor Hidden Service for Next Step Finance
+HiddenServiceDir /var/lib/tor/nextstep/
+HiddenServiceVersion 3
+HiddenServicePort 80 127.0.0.1:3000  # Map to backend port
+
+# Logs
+Log notice file /var/log/tor/notices.log

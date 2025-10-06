@@ -1,0 +1,16 @@
+{
+  "login": { "phone": "Nomor Telepon", "code": "Kode SMS", "submit": "Masuk" },
+  "register": { "phone": "Telepon", "firstName": "Nama Depan", "success": "Terdaftar!" },
+  "home": { "title": "Beranda" },
+  "balance": "Saldo Dompet",
+  "upgrade": "Upgrade ke {{next}} ({{req}})",
+  "name": "Nama",
+  "submit": "Kirim",
+  "remind": "Ingatkan",
+  "error": "Kesalahan",
+  "success": "Berhasil",
+  "settings": { "title": "Pengaturan" },
+  "currentMonth": "Bulan Ini",
+  "apply": "Ajukan",
+  "applyAmount": "Ajukan Jumlah"
+}
